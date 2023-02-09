@@ -1,0 +1,7 @@
+{
+  "name": "skills",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
